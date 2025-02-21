@@ -9,6 +9,7 @@ function App() {
           className="h-[40vmin] pointer-events-none animate-[spin_20s_linear_infinite]"
           alt="logo"
         />
+        <h1>GHelklo</h1>
         <p className="text-[#7B42BC] font-bold">Saliyab Terraform 🎉</p>
       </header>
     </div>
